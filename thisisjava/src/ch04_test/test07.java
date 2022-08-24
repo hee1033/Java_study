@@ -6,10 +6,10 @@ public class test07 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		boolean run = true;
+		boolean select = true;
 		int money = 0;
 		
-		while(run) {
+		while(select) {
 			
 			System.out.println("----------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
@@ -32,7 +32,9 @@ public class test07 {
 			} else if(strNum.equals("3")) {
 				System.out.println("잔고금액 :"+money);
 			} else if(strNum.equals("4")){
-				run = false;
+				select = false;
+			} else {
+				System.out.println("잘못 입력하셨습니다.다시 입력해주세요.");
 			}
 		}
 		System.out.println("프로그램 종료");
