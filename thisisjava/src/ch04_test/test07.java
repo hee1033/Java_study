@@ -22,13 +22,11 @@ public class test07 {
 				System.out.print("예금액 >");
 				int inputMoney = Integer.parseInt(sc.nextLine());
 				money += inputMoney;
-				System.out.println("현재 금액 : "+money);
 				
 			} else if(strNum.equals("2")) {
 				System.out.print("출금액 >");
 				int outputMoney = Integer.parseInt(sc.nextLine());
 				money -= outputMoney;
-				System.out.println("현재 금액 : "+money);
 			} else if(strNum.equals("3")) {
 				System.out.println("잔고금액 :"+money);
 			} else if(strNum.equals("4")){
