@@ -10,11 +10,11 @@ public class test03 {
 		String inputNum = sc.nextLine();
 		String[] arr = inputNum.split(",");
 		
-		int m;
+		
 		int k = 1;
 		
 		for(int i=0;i<arr.length;i++) {
-			  m = Integer.parseInt(arr[i]);
+			int m = Integer.parseInt(arr[i]);
 			  k *= m;
 		}
 		
