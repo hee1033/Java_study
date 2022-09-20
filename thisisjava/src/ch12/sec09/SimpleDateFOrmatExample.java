@@ -28,5 +28,4 @@ public class SimpleDateFOrmatExample {
 		System.out.println(sdf.format(now));
 		
 	}
-
 }

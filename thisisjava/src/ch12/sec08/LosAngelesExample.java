@@ -28,7 +28,5 @@ public class LosAngelesExample {
 		System.out.print(minute + "분");
 		System.out.println(second + "초");
 		
-
 	}
-
 }

@@ -19,5 +19,4 @@ public class DecimalFormatExample {
 		System.out.println(df.format(num));
 
 	}
-
 }

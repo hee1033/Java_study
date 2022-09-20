@@ -26,5 +26,4 @@ public class PatternExample {
 			System.out.println("동일하지 않습니다.");
 		}
 	}
-
 }

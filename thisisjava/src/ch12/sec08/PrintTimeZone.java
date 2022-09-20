@@ -10,7 +10,5 @@ public class PrintTimeZone {
 		for(String id : availableIDs) {
 			System.out.println(id);
 		}
-
 	}
-
 }

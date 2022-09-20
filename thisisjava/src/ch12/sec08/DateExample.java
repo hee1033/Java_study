@@ -16,5 +16,4 @@ public class DateExample {
 		String strNow2 = sdf.format(now);
 		System.out.println(strNow2);
 	}
-
 }

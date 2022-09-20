@@ -47,13 +47,5 @@ public class CalendarExample {
 		System.out.print(minute + "분");
 		System.out.println(second + "초");
 		
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }
