@@ -8,7 +8,7 @@ public class DateTimeCompareExample {
 
 	public static void main(String[] args) {
 		
-		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("YYYY.MM.dd a HH:mm:ss");
+		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy.MM.dd a HH:mm:ss");
 		
 		LocalDateTime startDateTime = LocalDateTime.of(2021, 1,1,0,0,0);
 		System.out.println("시작일 : "+startDateTime.format(dtf));
