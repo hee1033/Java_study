@@ -20,5 +20,6 @@ public class GenericExample {
 		//직장인 및 일반인 신청 가능
 		Course.registerCourse3(new Applicant<Person>(new Person()));
 		Course.registerCourse3(new Applicant<Worker>(new Worker()));
+		
 	}
 }

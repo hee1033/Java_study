@@ -12,6 +12,5 @@ public class ContainerExample {
 		Container<Integer> container2 = new Container<Integer>();
 		container2.set(100);
 		int value = container2.get();
-
 	}
 }

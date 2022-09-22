@@ -27,6 +27,5 @@ public class GenericExample {
 		// Getter 리턴값은 Car와 String이 됨
 		Car car = product2.getKind();
 		String carModel = product2.getModel();
-
 	}
 }

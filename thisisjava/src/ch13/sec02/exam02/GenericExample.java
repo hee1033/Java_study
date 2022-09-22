@@ -11,6 +11,5 @@ public class GenericExample {
 		CarAgency carAgency = new CarAgency();
 		Car car = carAgency.rent();
 		car.run();
-
 	}
 }

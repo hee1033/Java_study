@@ -15,6 +15,5 @@ public class GenericExample {
 		box2.content = 100;
 		int num = box2.content;
 		System.out.println(num);
-
 	}
 }

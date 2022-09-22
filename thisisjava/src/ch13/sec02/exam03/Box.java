@@ -7,6 +7,5 @@ public class Box<T> {
 	public boolean compare(Box<T>other) {
 		boolean result = content.equals(other.content);
 		return result;
-		
 	}
 }

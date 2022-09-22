@@ -22,6 +22,5 @@ public class GenericExample {
 		
 		boolean result2 = compare(4.5 , 4.5);
 		System.out.println(result2);
-
 	}
 }

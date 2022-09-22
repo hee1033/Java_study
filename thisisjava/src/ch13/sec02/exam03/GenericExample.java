@@ -18,6 +18,5 @@ public class GenericExample {
 		
 		boolean result2 = box1.compare(box3);
 		System.out.println("result2 : "+result2);
-
 	}
 }

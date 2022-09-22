@@ -7,6 +7,5 @@ public class Container<T> {
 	public void set(T t) {
 		this.t = t;
 		System.out.println(t);
-		
 	}
 }
