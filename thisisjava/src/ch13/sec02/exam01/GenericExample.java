@@ -29,5 +29,4 @@ public class GenericExample {
 		String carModel = product2.getModel();
 
 	}
-
 }

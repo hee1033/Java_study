@@ -14,5 +14,4 @@ public class ContainerExample {
 		int value = container2.get();
 
 	}
-
 }

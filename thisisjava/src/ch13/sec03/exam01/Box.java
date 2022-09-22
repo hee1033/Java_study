@@ -12,5 +12,6 @@ public class Box<T> {
 	//Setter 메소드
 	public void set(T t) {
 		this.t = t;
+		
 	}
 }

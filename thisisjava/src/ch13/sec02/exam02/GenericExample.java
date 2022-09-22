@@ -13,5 +13,4 @@ public class GenericExample {
 		car.run();
 
 	}
-
 }

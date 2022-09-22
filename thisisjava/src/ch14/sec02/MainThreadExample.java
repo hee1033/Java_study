@@ -12,5 +12,4 @@ public class MainThreadExample {
 		System.out.println("종료");
 		
 	}
-
 }

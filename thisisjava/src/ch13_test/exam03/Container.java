@@ -11,5 +11,6 @@ public class Container<S,I> {
 	public void set(S s,I i) {
 		this.s = s;
 		this.i = i;
+		
 	}
 }

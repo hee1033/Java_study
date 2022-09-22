@@ -17,5 +17,4 @@ public class GenericExample {
 		System.out.println(num);
 
 	}
-
 }

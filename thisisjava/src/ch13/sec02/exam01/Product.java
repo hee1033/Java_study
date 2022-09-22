@@ -8,4 +8,5 @@ public class Product<K,M> {
 	public M getModel() {return this.model;}
 	public K setKind(K kind) {return this.kind;}
 	public M setModel(M model) {return this.model;}
+	
 }

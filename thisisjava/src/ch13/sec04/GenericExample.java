@@ -24,5 +24,4 @@ public class GenericExample {
 		System.out.println(result2);
 
 	}
-
 }

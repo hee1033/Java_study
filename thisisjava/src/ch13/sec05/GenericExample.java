@@ -21,5 +21,4 @@ public class GenericExample {
 		Course.registerCourse3(new Applicant<Person>(new Person()));
 		Course.registerCourse3(new Applicant<Worker>(new Worker()));
 	}
-
 }

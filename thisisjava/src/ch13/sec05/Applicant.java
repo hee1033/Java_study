@@ -6,5 +6,6 @@ public class Applicant<T> {
 	
 	public Applicant(T kind) {
 		this.kind = kind;
+		
 	}
 }

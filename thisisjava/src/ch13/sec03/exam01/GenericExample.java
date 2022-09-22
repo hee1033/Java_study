@@ -20,5 +20,4 @@ public class GenericExample {
 		String stringValue = box2.get();
 		System.out.println(stringValue);
 	}
-
 }
