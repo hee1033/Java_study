@@ -11,12 +11,12 @@ public class YieldExample {
 		workThreadB.start();
 		
 		try {
-			Thread.sleep(5000);
+			Thread.sleep(3000);
 		}catch(InterruptedException e) {}
 		workThreadA.work = false;
 		
 		try {
-			Thread.sleep(10000);
+			Thread.sleep(5000);
 		}catch(InterruptedException e) {}
 		workThreadB.work = true;
 	}
