@@ -1,6 +1,6 @@
 package programmes;
 
-public class Solution {
+public class Solution22 {
 
 	public static void main(String[] args) {
 		
